@@ -1,7 +1,14 @@
 body {
-    font-family: sans-serif;
-    margin: 2rem;
-  }
+    backround-color: black;
+    font-family: Verdana, sans-serif;
+    font-size: 16px;
+    color: gray;}
+
+    h1{
+        font-family: Georgia, serif;
+        font-size: 60px;
+        color: white;
+    }
   
   ul {
     list-style: none;
